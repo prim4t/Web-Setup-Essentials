@@ -1,6 +1,6 @@
 ---
 
-#  Static Blog Setup Essentials
+# Static Blog Setup Essentials
 ##### Everything you need to start your minimal fast and secure Blog
 
 
