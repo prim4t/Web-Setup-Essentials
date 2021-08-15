@@ -10,32 +10,24 @@ TeXt is a super customizable Jekyll theme for personal site, team site, blog, pr
 
 **[Change Log](https://github.com/kitian616/jekyll-TeXt-theme/blob/master/CHANGELOG.md)** | **[中文](https://github.com/kitian616/jekyll-TeXt-theme/blob/master/README-zh.md)**
 
-## Features
+## Register E-mail
 
-- Responsive
-- Semantic HTML
-- Skins
-- Highlight Theme
-- Internationalization
-- Search
-- Table of contents
-- Authors
-- Additional styles (alert, tag, image, icon, button, grid, etc)
-- Extensions (audios, videos, slides, demos)
-- Markdown enhancements ([MathJax](https://www.mathjax.org/), [mermaid](https://mermaidjs.github.io/), [chartjs](http://www.chartjs.org/))
-- Sharing ([AddToAny](https://www.addtoany.com/), [AddThis](https://www.addthis.com/))
-- Comments ([Disqus](https://disqus.com/), [Gitalk](https://gitalk.github.io/), [Valine](https://valine.js.org/en/))
-- Pageview ([LeanCloud](https://leancloud.cn/))
-- Analytics ([Google Analytics](https://analytics.google.com/analytics/web/))
-- RSS ([jekyll-feed](https://github.com/jekyll/jekyll-feed))
+- ### [1](https://github.com/kitian616/jekyll-TeXt-theme/blob/master/CHANGELOG.md)
+- ### [2](https://github.com/kitian616/jekyll-TeXt-theme/blob/master/CHANGELOG.md)
+- ### [3](https://github.com/kitian616/jekyll-TeXt-theme/blob/master/CHANGELOG.md)
 
-## Skins
+| 📁 Hosting | 2 |
+| --- | --- |
+| [Netlify](https://LINK.com) | [Netlify](https://LINK.com) |
+| [Netlify](https://LINK.com) | [Netlify](https://LINK.com) |
 
-TeXt has 6 built-in skins, you can also set up your own skin.
+## Great Themes to start you Blog!
 
-| `default` | `dark` | `forest` |
+https://github.com/kitian616/jekyll-TeXt-theme
+
+| Chalk | TeXt | forest |
 | --- |  --- | --- |
-| ![Default](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/skins_default.jpg) | ![Dark](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/skins_dark.jpg) | ![Forest](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/skins_forest.jpg) |
+| [![Chalk](https://raw.githubusercontent.com/nielsenramon/chalk/master/_assets/images/documentation/chalk-intro%402x.png)](https://github.com/nielsenramon/chalk) | [![TeXt](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/TeXt-home.jpg)](https://github.com/kitian616/jekyll-TeXt-theme) | [![Forest](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/skins_forest.jpg)](LINK) |
 
 | `ocean` | `chocolate` | `orange` |
 | --- |  --- | --- |
