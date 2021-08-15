@@ -1,4 +1,4 @@
-## markdown-only
+# Websetup Essentials
 
 > [**HERE**](https://aleen42.github.io/markdown-only/) you can check the site of this repo.
 
