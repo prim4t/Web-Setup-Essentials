@@ -1,9 +1,10 @@
 
-
-#   :computer: Website Setup Essentials
+<a > <img width ='100%'  height ='50px' src ='https://upload.wikimedia.org/wikipedia/commons/b/bf/GradientPurpleBlue.png'> </a>
+#   Website Setup Essentials
 #####  Everything you need to start your minimal, fast and secure Blog
 
-<a > <img width ='100%'  height ='5px' src ='https://upload.wikimedia.org/wikipedia/commons/b/bf/GradientPurpleBlue.png'> </a>
+<a > <img   height ='400px' src ='https://media.giphy.com/media/ZgTR3UQ9XAWDvqy9jv/giphy.gif'> </a> 
+
 
 
 
