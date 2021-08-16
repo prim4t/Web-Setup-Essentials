@@ -32,7 +32,7 @@
 - Pictures/Photos: [Pexels](https://www.pexels.com/) | [Wikipedia](https://commons.wikimedia.org/wiki/Category:Images) | [on Dev.to](https://dev.to/nikolab/complete-list-of-github-markdown-emoji-markup-5aia) - :camera:
 - Emoji: [Emojipedia.org](https://emojipedia.org/) | [on Github](https://gist.github.com/rxaviers/7360908)| [on Dev.to](https://dev.to/nikolab/complete-list-of-github-markdown-emoji-markup-5aia) - :smile: :grin: :cry:
 - Icons : [Simpleicons.org](https://simpleicons.org/?q=netl) -  <a> <img width ='20px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactjs.svg'> </a>
-<a > <img width ='20px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'> </a>
+<a> <img width ='20px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'> </a>
  <img width ='20px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg'> </a> 
 - Gif Libraries: [on Github](https://gifs.joelglovier.com/) - <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 20px> 
 - Badge: [Shield.io](https://shields.io/category/social) | [Aleen42](https://github.com/aleen42/badges) - [![Badges](https://img.shields.io/badge/Cool-Badges-1462ab.svg?)](https://shields.i) 
