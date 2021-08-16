@@ -10,7 +10,7 @@
 
 
 
-## :envelope: Register E-Mail: **[Mailfence](https://github.com/kitian616/jekyll-TeXt-theme/blob/master/README-zh.md)** | **[Criptext](https://github.com/kitian616/jekyll-TeXt-theme/blob/master/README-zh.md)** 
+## :envelope: Register E-Mail: **[Mailfence](https://mailfence.com)** | **[Criptext](https://criptext.com)** 
 
 ## :link: Get Git: **[GitHub](https://github.com)** | **[GitLab](https://gitlab.com)**
 
@@ -47,7 +47,7 @@
 
 
 Web Setup Essentials from [Primitive Tutorials](https://www.youtube.com/channel/UCMhW7mC8faCqTcRKbO0c7Cw) \
-Feel free [contribute!](https://github.com/prim4t/Web-Setup-Essentials) <a> <img width ='20px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactjs.svg'> </a> 
+Feel free [contribute!](https://github.com/prim4t/Web-Setup-Essentials)
 
 
 [![Tip Me via PayPal](https://img.shields.io/badge/PayPal-tip%20me-1462ab.svg?logo=paypal)](https://www.paypal.me/prim4tdotart)
