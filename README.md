@@ -3,7 +3,7 @@
 #   :computer: Website Setup Essentials
 #####  Everything you need to start your minimal, fast and secure Blog
 
-<a > <img width ='100%'  height ='5px' src ='https://upload.wikimedia.org/wikipedia/commons/b/bf/GradientPurpleBlue.png'> </a>
+<a> <img width ='100%'  height ='5px' src ='https://upload.wikimedia.org/wikipedia/commons/b/bf/GradientPurpleBlue.png'> </a>
 
 
 
@@ -36,13 +36,13 @@
  <img width ='20px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg'> </a> 
 - Gif Libraries: [on Github](https://gifs.joelglovier.com/) - <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 20px> 
 - Badge: [Shield.io](https://shields.io/category/social) | [Aleen42](https://github.com/aleen42/badges) - [![Badges](https://img.shields.io/badge/Cool-Badges-1462ab.svg?)](https://shields.i) 
-- Markdown Editors: [jbt](https://jbt.github.io/markdown-editor/) | [Cool](https://coolmarkdowneditor.org/) | [Upmath](https://upmath.me/) - <img width ='20px' src ='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/markdown/markdown.png'> </a> 
+- Markdown Editors: [jbt](https://jbt.github.io/markdown-editor/) | [Cool](https://coolmarkdowneditor.org/) | [Upmath](https://upmath.me/) - <img width ='20px' src ='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/markdown/markdown.png'> 
 -  List of Static Site generators: [Jamstack.org](https://jamstack.org/generators/)
 - Automation: [Integromat](https://www.integromat.com) | [zapier](https://zapier.com/) | [ifttt](https://ifttt.com/) - ⚙️ 
 
 
 
-<a > <img width ='100%'  height ='5px' src ='https://upload.wikimedia.org/wikipedia/commons/b/bf/GradientPurpleBlue.png'> </a>
+<a> <img width ='100%'  height ='5px' src ='https://upload.wikimedia.org/wikipedia/commons/b/bf/GradientPurpleBlue.png'> </a>
 
 
 Web Setup Essentials from [Primitive Tutorials](https://www.youtube.com/channel/UCMhW7mC8faCqTcRKbO0c7Cw)
