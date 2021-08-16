@@ -33,7 +33,7 @@
 - Emoji: [Emojipedia.org](https://emojipedia.org/) | [on Github](https://gist.github.com/rxaviers/7360908)| [on Dev.to](https://dev.to/nikolab/complete-list-of-github-markdown-emoji-markup-5aia) - :smile: :grin: :cry:
 - Icons : [Simpleicons.org](https://simpleicons.org/?q=netl) -  <a> <img width ='20px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactjs.svg'> </a>
 <a> <img width ='20px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'> </a>
- <img width ='20px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg'> </a> 
+ <a> <img width ='20px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg'> </a> 
 - Gif Libraries: [on Github](https://gifs.joelglovier.com/) - <a> <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 20px> 
 - Badge: [Shield.io](https://shields.io/category/social) | [Aleen42](https://github.com/aleen42/badges) - [![Badges](https://img.shields.io/badge/Cool-Badges-1462ab.svg?)](https://shields.i) 
 - Markdown Editors: [jbt](https://jbt.github.io/markdown-editor/) | [Cool](https://coolmarkdowneditor.org/) | [Upmath](https://upmath.me/) - <a> <img width ='20px' src ='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/markdown/markdown.png'> </a> 
@@ -42,7 +42,7 @@
 
 
 
-<a > <img width ='100%'  height ='5px' src ='https://upload.wikimedia.org/wikipedia/commons/b/bf/GradientPurpleBlue.png'> </a>
+<a> <img width ='100%'  height ='5px' src ='https://upload.wikimedia.org/wikipedia/commons/b/bf/GradientPurpleBlue.png'> </a>
 
 
 Web Setup Essentials from [Primitive Tutorials](https://www.youtube.com/channel/UCMhW7mC8faCqTcRKbO0c7Cw)
