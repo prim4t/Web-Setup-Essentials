@@ -1,5 +1,5 @@
 
-<a > <img width ='100%'  height ='50px' src ='https://upload.wikimedia.org/wikipedia/commons/b/bf/GradientPurpleBlue.png'> </a>
+<a > <img width ='100%'  height ='10px' src ='https://upload.wikimedia.org/wikipedia/commons/b/bf/GradientPurpleBlue.png'> </a>
 #   Website Setup Essentials
 #####  Everything you need to start your minimal, fast and secure Blog
 
