@@ -1,12 +1,14 @@
 
 
 #  Website Setup Essentials
+
+
+![Picture](https://emojipedia-us.s3.amazonaws.com/source/skype/289/desktop-computer_1f5a5-fe0f.png)
+
+
 ##### Everything you need to start your minimal fast and secure Blog
 
-
-![TeXt Theme Details](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/TeXt-layouts.png)
-
-TeXt is a super customizable Jekyll theme for personal site, team site, blog, project, documentation, etc. Similar to iOS 11 style, it has large and prominent titles, round buttons and cards.
+---
 
 ## :envelope: Register E-Mail : **[Mailfence](https://github.com/kitian616/jekyll-TeXt-theme/blob/master/README-zh.md)** | **[Criptext](https://github.com/kitian616/jekyll-TeXt-theme/blob/master/README-zh.md)** 
 
@@ -14,44 +16,15 @@ TeXt is a super customizable Jekyll theme for personal site, team site, blog, pr
 
 ## :computer: Get Hosting :  **[Netlify](https://github.com/kitian616/jekyll-TeXt-theme/blob/master/README-zh.md)** | **[Versel](https://github.com/kitian616/jekyll-TeXt-theme/blob/master/README-zh.md)**
 
-## :globe_with_meridians: Register Domain : **[Namecheap](https://github.com/kitian616/jekyll-TeXt-theme/blob/master/README-zh.md)** | **[2](https://github.com/kitian616/jekyll-TeXt-theme/blob/master/README-zh.md)** | **[3](https://github.com/kitian616/jekyll-TeXt-theme/blob/master/README-zh.md)** | **[4](https://github.com/kitian616/jekyll-TeXt-theme/blob/master/README-zh.md)**
+## :globe_with_meridians: Register Domain : **[Namecheap](https://github.com/kitian616/jekyll-TeXt-theme/blob/master/README-zh.md)** | **[UnstoppableDomains](https://unstoppabledomains.com/r/151ba14a0087436)** | **[3](https://github.com/kitian616/jekyll-TeXt-theme/blob/master/README-zh.md)** | **[4](https://github.com/kitian616/jekyll-TeXt-theme/blob/master/README-zh.md)**
 
-## :art: Get Theme/Template : **[1](https://github.com/kitian616/jekyll-TeXt-theme/blob/master/README-zh.md)** | **[2](https://github.com/kitian616/jekyll-TeXt-theme/blob/master/README-zh.md)** | **[3](https://github.com/kitian616/jekyll-TeXt-theme/blob/master/README-zh.md)** | **[4](https://github.com/kitian616/jekyll-TeXt-theme/blob/master/README-zh.md)**
+## :art: Get a Theme/Template :
 
-| Chalk | TeXt | forest |
+| Chalk | TeXt | Anatole |
 | --- |  --- | --- |
-| [![Chalk](https://raw.githubusercontent.com/nielsenramon/chalk/master/_assets/images/documentation/chalk-intro%402x.png)](https://github.com/nielsenramon/chalk) | [![TeXt](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/TeXt-home.jpg)](https://github.com/kitian616/jekyll-TeXt-theme) | [![Forest](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/skins_forest.jpg)](LINK) |
+| [![Chalk](https://raw.githubusercontent.com/nielsenramon/chalk/master/_assets/images/documentation/chalk-intro%402x.png)](https://github.com/nielsenramon/chalk) | [![TeXt](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/TeXt-home.jpg)](https://github.com/kitian616/jekyll-TeXt-theme) | [![Anatole](https://raw.githubusercontent.com/lxndrblz/anatole/master/images/screenshot.png)](https://github.com/lxndrblz/anatole) |
 
-## Documentation
 
-### Start
-
-- [Quick Start](https://tianqi.name/jekyll-TeXt-theme/docs/en/quick-start)
-- [Update from 1.x to 2.x](https://tianqi.name/jekyll-TeXt-theme/docs/en/update-from-1-to-2)
-
-### Customization
-
-- [Configuration](https://tianqi.name/jekyll-TeXt-theme/docs/en/configuration)
-- [Navigation](https://tianqi.name/jekyll-TeXt-theme/docs/en/navigation)
-- [Layouts](https://tianqi.name/jekyll-TeXt-theme/docs/en/layouts)
-- [Logo and Favicon](https://tianqi.name/jekyll-TeXt-theme/docs/en/logo-and-favicon)
-- [Authors](https://tianqi.name/jekyll-TeXt-theme/docs/en/authors)
-- [Internationalization](https://tianqi.name/jekyll-TeXt-theme/docs/en/i18n)
-
-### Content
-
-- [Writing Posts](https://tianqi.name/jekyll-TeXt-theme/docs/en/writing-posts)
-- [Additional styles](https://tianqi.name/jekyll-TeXt-theme/docs/en/additional-styles)
-- [Extensions](https://tianqi.name/jekyll-TeXt-theme/docs/en/extensions)
-- [Markdown Enhancements](https://tianqi.name/jekyll-TeXt-theme/docs/en/markdown-enhancements)
-
-## Demo Pages
-
-| Name | Description |
-| --- | --- |
-| [Home](https://tianqi.name/jekyll-TeXt-theme/test/) | Home page |
-| [Archive](https://tianqi.name/jekyll-TeXt-theme/archive.html) | Archive page |
-| [Layout Examples](https://tianqi.name/jekyll-TeXt-theme/samples.html) | Examples for different layouts |
 
 ---
 
