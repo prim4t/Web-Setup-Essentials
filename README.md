@@ -3,7 +3,7 @@
 #   Website Setup Essentials
 #####  Everything you need to start your minimal, fast and secure Blog
 
-<a > <img   height ='400px' src ='https://media.giphy.com/media/ZgTR3UQ9XAWDvqy9jv/giphy.gif'> </a> 
+<a > <img   height ='400px' src ='https://prim4t.hashnode.dev/_next/image?url=https%3A%2F%2Fcdn.hashnode.com%2Fres%2Fhashnode%2Fimage%2Fupload%2Fv1629208404359%2FY5hhs8muJ.jpeg%3Fw%3D1600%26h%3D840%26fit%3Dcrop%26crop%3Dentropy%26auto%3Dcompress%2Cformat%26format%3Dwebp&w=1920&q=75'> </a> 
 
 
 
@@ -41,7 +41,7 @@
 - Markdown Editors | [jbt](https://jbt.github.io/markdown-editor/) | [Cool](https://coolmarkdowneditor.org/) | [Upmath](https://upmath.me/) | <a> <img width ='20px' src ='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/markdown/markdown.png'> </a> 
 -  List of Static Site generators | [Jamstack.org](https://jamstack.org/generators/)
 - Automation | [Integromat](https://www.integromat.com) | [zapier](https://zapier.com/) | [ifttt](https://ifttt.com/) | ⚙️ 
-- Cross blog | [Dev.to](https://www.dev.to) | [Medium](https://medium.com/) | :pencil:
+- Cross blog | [Dev.to](https://www.dev.to) | [Medium](https://medium.com/) | [Hashnode](https://hashnode.com/@PRIM4T/joinme) | :pencil:
 
 
 <a> <img width ='100%'  height ='5px' src ='https://upload.wikimedia.org/wikipedia/commons/b/bf/GradientPurpleBlue.png'> </a>
