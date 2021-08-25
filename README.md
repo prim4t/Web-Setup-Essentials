@@ -13,7 +13,7 @@
 
 ## :envelope: Register E-Mail: **[Mailfence](https://mailfence.com)** | **[Criptext](https://criptext.com)** 
 
-## :link: Get Git: **[GitHub](https://github.com)** | **[GitLab](https://gitlab.com)**
+## :link: Get Git: **[GitHub](https://github.com)** | **[GitLab](https://gitlab.com)** | **[GitPod](https://gitpod.io/)** 
 
 ## :computer: Host your Git:  **[Netlify](https://netlify.com)** | **[Vercel](https://vercel.com)**
 
